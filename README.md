@@ -13,3 +13,5 @@
 [side project of HTML CSS kakao clone project DAY:11](https://codesandbox.io/s/blueprint-wzvsl)
 
 [side project of HTML CSS kakao clone project DAY:12](https://codesandbox.io/s/blueprint-gnt6y)
+
+![Image of Blueprint more.html](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/blueprint_moreHTML.jpg)
