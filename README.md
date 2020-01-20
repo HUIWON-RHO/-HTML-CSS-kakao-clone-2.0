@@ -21,4 +21,3 @@
 ![Image of Blueprint more.html](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/day14-4.JPG)
 ![Image of Blueprint more.html](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/day14-3.JPG)
 
-![Image of Blueprint more.html](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/blueprint_moreHTML.jpg)
