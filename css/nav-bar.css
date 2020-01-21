@@ -30,24 +30,24 @@
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  animation: badge 0.5s ease-in-out forwards;
+  animation: badge 1s ease-in-out forwards;
   animation-delay: 1s;
 }
 @keyframes badge {
   0% {
-    transform: rotate(-40deg) scale(1.5, 1.5);
+    transform: rotateY(120deg) scale(1.5, 1.5);
     background: green;
   }
   25% {
-    transform: rotate(0deg) scale(1, 1);
+    transform: rotateY(0deg) scale(1, 1);
     background: yellow;
   }
   50% {
-    transform: rotate(40deg) scale(1.5, 1.5);
+    transform: rotateY(-120deg) scale(1.5, 1.5);
     background: pink;
   }
   100% {
-    transform: rotate(0deg) scale(1, 1);
+    transform: rotateY(0deg) scale(1, 1);
   }
 }
 @keyframes showNavBar {
