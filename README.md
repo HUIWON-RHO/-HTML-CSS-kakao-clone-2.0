@@ -1,6 +1,11 @@
-# kakao-clone-2.0
+# kakao-clone-coding HTML5/CSS3🔥
  Kakao Clone Version 2.0
+ 
+![Preview of Kakao Clone](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview1.JPG =300x)
+![Preview of Kakao Clone](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview2.JPG =300x)
 
+
+# side projects that I made during learning🔥
 
 [side project of HTML CSS kakao clone project DAY:6](https://codesandbox.io/s/blueprint-qdtg9)
 
@@ -18,6 +23,6 @@
 
 [side project of HTML CSS kakao clone project DAY:14](https://codesandbox.io/s/blueprint-2zdmk)
 
-![Image of Blueprint more.html](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/day14-4.JPG)
-![Image of Blueprint more.html](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/day14-3.JPG)
+![Preview Image of side project](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/day14-4.JPG)
+![Preview Image of side project](https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/day14-3.JPG)
 
