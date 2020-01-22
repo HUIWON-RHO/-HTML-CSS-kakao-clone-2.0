@@ -1,8 +1,7 @@
 # kakao-clone-coding HTML5/CSS3🔥
  Kakao Clone Version 2.0
  
-<img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview1.JPG" width="150">
-<img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview2.JPG" width="150">
+<img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview1.JPG" width="150"><img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview2.JPG" width="150">
 
 # side projects that I made during learning🔥
 
