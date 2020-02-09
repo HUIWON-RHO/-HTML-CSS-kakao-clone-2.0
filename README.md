@@ -4,7 +4,7 @@
  
 <img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview1.JPG" width="200"><img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview2.JPG" width="200">
 
-# Side projects I made during learning🔥
+# Side projects made during learning🔥
 
 [side project of HTML CSS kakao clone project DAY:6](https://codesandbox.io/s/blueprint-qdtg9)
 
