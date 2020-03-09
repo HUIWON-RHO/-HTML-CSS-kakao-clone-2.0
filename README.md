@@ -2,7 +2,7 @@
  Kakao Clone Version 2.0
  👉[Check it here!](https://huiwon-rho.github.io/kakao-clone-2.0/)
  
-<img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview1.JPG" width="200"><img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview2.JPG" width="200">
+<img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview1.JPG" width="250"><img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview2.JPG" width="250">
 
 # Side projects made during learning🔥
 
