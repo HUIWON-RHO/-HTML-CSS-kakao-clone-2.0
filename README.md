@@ -5,7 +5,7 @@
 <img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview1.JPG" width="250"><img src="https://github.com/HUIWON-RHO/kakao-clone-2.0/blob/master/images/preview2.JPG" width="250">
 
 # Side assignment🔥
-[CSS GRID 2020-09-17updated](https://bluprint-3.huiwonrho.repl.co/)
+[Responsive CSS Grid 2020-09-17updated](https://bluprint-3.huiwonrho.repl.co/)
 
 [side project of HTML CSS kakao clone project DAY:6](https://codesandbox.io/s/blueprint-qdtg9)
 
